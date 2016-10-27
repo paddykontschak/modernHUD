@@ -1,0 +1,208 @@
+/*-------------------- P Style --------------------*/
+p {
+	font-family: Roboto;
+	font-size: 16px;
+	color: #c7c7c5;
+	text-align: justify;
+    font-weight: normal;
+}
+p-smallScreen { color: #ffffff; }
+left_p { text-align: left; }
+right_p { text-align: right; }
+center_p { text-align: center; }
+italic_p { font-style: italic; }
+underline_p { text-decoration: underline; }
+p4_p{color: #6b6b6b;}
+bold_p {
+	text-align: left;
+	font-weight: bold;
+}
+boldcenter_p {
+	text-align: center;
+	font-weight: bold;
+}
+boldright_p {
+	text-align: right;
+	font-weight: bold;
+}
+/*-------------------- disabled Style --------------------*/
+disabledboldcenter_p {
+	color: #4a4b46;
+	text-align: center;
+	font-weight: bold;
+}
+disabledboldright_p {
+	color: #4a4b46;
+	text-align: right;
+	font-weight: bold;
+}
+
+italicdisabled_p {
+	color: #4a4b46;
+	font-style: italic;
+}
+
+/*-------------------- condensed Style --------------------*/
+condensedbold {
+	font-family: RobotoCondensed;
+	font-size: 16px;
+	color: #c7c7c5;
+	font-weight: bold;
+	text-align: justify;
+}
+
+condensedboldright_condensedbold {
+	text-align: right;
+}
+condensedboldcentert_condensedbold {
+    text-align: center;
+}
+
+whitecondensedboldright_condensedbold {
+	color: #e0e0de;
+	text-align: right;
+}
+
+/*-------------------- big condensed Style --------------------*/
+
+extrawhitebigcondensedbold_condensedbold {
+	color: #ffffff;
+	font-size: 18px;
+}
+
+extrawhitebigcondensedboldright_extrawhitebigcondensedbold {
+	text-align: right;
+}
+
+/*-------------------- medium Style --------------------*/
+
+medium_p{ font-family: Roboto; }
+mediumleft_medium {	text-align: left; }
+mediumright_medium { text-align: right; }
+mediumcenter_medium { text-align: center; }
+
+/*-------------------- disabled Style --------------------*/
+
+disabled_p{	color: #4a4b46; }
+disabledcenter_disabled { text-align: center; }
+disabledright_disabled { text-align: right; }
+
+/*-------------------- dark Style --------------------*/
+dark_p { color: #9b9b9b; }
+darkright_dark { text-align: right; }
+darkcenter_dark { text-align: center; }
+
+darkbold_p {
+	color: #2d1e13;
+	font-weight: bold;
+}
+darkboldleft_darkbold { text-align: left; }
+darkboldright_darkbold { text-align: right; }
+darkboldcenter_darkbold { text-align: center; }
+
+/*-------------------- brown Style --------------------*/
+browncondensedboldcenter {
+	font-family: RobotoCondensed;
+	font-size: 16px;
+	color: #3c381b;
+	font-weight: bold;
+	text-align: center;
+}
+
+/*-------------------- green Style --------------------*/
+green {
+	font-family: Roboto;
+	font-size: 16px;
+	color: #deff00;
+	text-align: justify;
+}
+greenleft_green { text-align: left; }
+greenright_green { text-align: right; }
+greencenter_green { text-align: center; }
+
+greenunderline_p{
+	color: #deff00;
+	text-decoration: underline;
+}
+greenboldcenter_p {
+	color: #deff00;
+	text-align: center;
+	font-weight: bold;
+}
+
+/*-------------------- orange Style --------------------*/
+orange {
+	font-family: Roboto;
+	font-size: 16px;
+	color: #ebc304;
+	text-align: justify;
+}
+orangeleft_orange { text-align: left; }
+orangeright_orange { text-align: right; }
+orangecenter_orange { text-align: center; }
+
+/*-------------------- red Style --------------------*/
+red {
+	font-family: Roboto;
+	font-size: 16px;
+	color: #eb0000;
+	text-align: justify;
+}
+redcenter_red { text-align: center; }
+redright_red { text-align: right; }
+
+/*-------------------- white Style --------------------*/
+white{
+	font-family: Roboto;
+	font-size: 16px;
+	color: #e0e0de;
+}
+whitebold_white {
+	font-weight: bold;
+}
+whiteboldleft_whitebold { text-align: left; }
+whiteboldright_whitebold { text-align: right; }
+whiteboldcenter_whitebold { text-align: center; }
+whitecenter_white { text-align: center; }
+
+extrawhitebold_whitebold { color: #ffffff; }
+extrawhiteboldcenter_extrawhitebold { text-align: center; }
+
+extrawhitebig{
+	font-family: Roboto;
+	color: #ffffff;
+	font-size: 16px;
+}
+extrawhitebigleft_extrawhitebig {
+	text-align: left;
+}
+
+/*-------------------- HDV Style --------------------*/
+itemset_left { color: #feb336; }
+itemetheralleft { color: #8ab7ee; }
+malus_left { color:#ff0142; }
+bonus_left { color:#65E456; }
+bonusright_right { color:#65E456;}
+exotic_left { color:#a3bcfd;}
+exoticright_right { color:#a3bcfd;}
+
+npcdialoganswer_p { color: #deff00; }
+npcdialoganswerover_p { color: #e7ff73; }
+
+/*-------------------- Misc Style --------------------*/
+boldcenterogrine {
+	font-family: Roboto;
+	font-size: 18px;
+	color: #058B92;
+	font-weight: bold;
+	text-align: center;
+	letterSpacing: 0;
+}
+
+p4center {
+	font-family: Roboto;
+	font-size: 18px;
+	color: #BBBBBB;
+	text-align: center;
+	letterSpacing: 0.3;
+}

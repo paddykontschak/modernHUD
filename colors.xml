@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LangFile>
+	<!--
+							Fichier de couleurs d'interfaces
+		Syntaxe :
+			<entry key="nom de la clef">contenu</entry>
+			
+		Note :
+			Le nom du fichier (sans son extension) est automatiquement ajoute avant la clef. Par
+			exemple, pour faire reference aux clefs declarees dans le fichier "colors.xml", il
+			faudra ajouter "colors." aux noms des clefs
+			 Certaines grilles supportent le format AARRGGBB
+	-->
+	
+	<!--======================================================================-->
+	<!--                            Couleurs                                -->
+	<!--======================================================================-->
+	
+	<entry key="ui.shadow">0x333333</entry>
+	<entry key="ui.bg.pregame">0x433527</entry>
+	<entry key="ui.wnd.border">0x6F6D61</entry>
+	
+	<entry key="grid.title">0x2B2B27</entry>
+	<entry key="grid.bg">0x3D3E39</entry>
+	<entry key="grid.line">0x10CCCCCC</entry>
+	<entry key="grid.over">0x20CCCCCC</entry>
+	<entry key="grid.selected">0x30CCCCCC</entry>
+	
+	<entry key="multigrid.line">0x5c5c5d</entry>
+	<entry key="multigrid.subline">0x202020</entry>
+	<entry key="multigrid.selected">0xaae50c</entry>
+	
+	<entry key="radio.over">0x2c2e26</entry>
+	
+	<entry key="combobox.over">0x903D3D33</entry>
+	<entry key="combobox.selected">0x252c2d25</entry>
+	
+	<entry key="shortcut">0xdeff00</entry>
+	
+	<entry key="hyperlink.link">0xdeff00</entry>
+	<entry key="hyperlink.hover">0xf2fabd</entry>
+	<entry key="hyperlink.warning">0xec0101</entry>
+	
+	<entry key="hierarchy.moderator">0xff4343</entry>
+	<entry key="hierarchy.gamemaster_padawan">0xc79866</entry>
+	<entry key="hierarchy.gamemaster">0xc79866</entry>
+	<entry key="hierarchy.administrator">0x686fff</entry>
+		
+	<entry key="contextmenu.title">0x514a3c</entry>
+	<entry key="contextmenu.title.alpha">0.8</entry>
+	<entry key="contextmenu.over">0x603d3d33</entry>
+	<entry key="contextmenu.border">0x514a3c</entry>
+	<entry key="contextmenu.bg">0x20201d</entry>
+	<entry key="contextmenu.bg.alpha">0.9</entry>
+	<entry key="contextmenu.shadow">0x222222</entry>
+	<entry key="contextmenu.separator">0x514a3c</entry>
+	<entry key="contextmenu.shortcut">0x797979</entry>
+	
+	<entry key="timeline.border_current_fighter">0xff6100</entry>	
+	
+	<entry key="tooltip.bg">0x000000</entry>
+	<entry key="tooltip.border">0x000000</entry>
+	<entry key="tooltip.bg.alpha">0.85</entry>
+	<entry key="tooltip.text.red">0xc10000</entry>
+	<entry key="tooltip.text.orange">0xf17921</entry>
+	<entry key="tooltip.text.disabled">0x868686</entry>
+	
+	<entry key="text.glow">0xffffff</entry>
+	<entry key="text.glow.dark">0x000000</entry>
+	<entry key="text.glow.light">0xfffae4</entry>
+	<entry key="text.glow.red">0xed6029</entry>
+	
+	<entry key="fight.text.multi">0x9a50e5</entry>
+	<entry key="fight.text.air">0x37d63a</entry>
+	<entry key="fight.text.water">0x3286b0</entry>
+	<entry key="fight.text.fire">0xcd2828</entry>
+	<entry key="fight.text.earth">0xAC7948</entry>
+	<entry key="fight.text.neutral">0xe8e8e8</entry>
+	
+	<entry key="chat.bgColor">0x00242424</entry>
+	
+	<entry key="progressbar.blue">0x3af2ff</entry>
+	<entry key="progressbar.green">0xccf600</entry>
+	<entry key="progressbar.yellow">0xfcc800</entry>
+    <entry key="progressbar.pink">0xdf1b45</entry>
+    <entry key="progressbar.damage">0xff6a3d</entry>
+	<entry key="progressbar.lifePoints">0xc71c26</entry>
+	<entry key="progressbar.shieldPoints">0x9966CC</entry>
+	
+	<entry key="smithmagic.success">0x3d680f</entry>
+	<entry key="smithmagic.fail">0x7c2424</entry>
+	
+	<entry key="map.search.grid.over">0x151513</entry>
+	<entry key="map.search.grid.over.alpha">0.6</entry>
+	
+	<entry key="gamemenu.background">0x000000</entry>
+	<entry key="gamemenu.background.alpha">0.8</entry>
+</LangFile>

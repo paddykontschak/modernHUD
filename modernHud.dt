@@ -1,0 +1,8 @@
+<theme>
+    
+    <name>modernHud</name>
+    <skinType>1</skinType>
+    <description>[ui.option.theme.hud]</description>
+    <previewUri>modernHudPreview.jpg</previewUri>
+    
+</theme> 
