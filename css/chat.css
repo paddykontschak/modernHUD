@@ -8,8 +8,9 @@ p {
     color: #E8890D;
     font-weight: bold;
     shadow-distance: 0;
-    shadow-blurX: 2;
+    shadow-blur: 0;
     shadow-angle: 0;
+    shadow-strength: 2;
 }
 
 /* Global */

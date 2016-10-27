@@ -19,15 +19,15 @@
 	
 	// Green small button
 	button_small_normal:{
-		uri: "[config.ui.skin]common/btn_green_small_normal.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_normal.png",
 		scale9Grid:{x:7,y:12,width:10,height:15}
 	},
 	button_small_over:{
-		uri: "[config.ui.skin]common/btn_green_small_over.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_over.png",
 		scale9Grid:{x:7,y:12,width:10,height:15}
 	},
 	button_small_pressed:{
-		uri: "[config.ui.skin]common/btn_green_small_pressed.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_pressed.png",
 		scale9Grid:{x:7,y:12,width:10,height:15}
 	},
 	button_small_disabled:{
@@ -35,15 +35,15 @@
 		scale9Grid:{x:7,y:12,width:10,height:15}
 	},
 	button_small_selected:{
-		uri: "[config.ui.skin]common/btn_green_small_selected.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_selected.png",
 		scale9Grid:{x:7,y:12,width:10,height:15}
 	},
 	button_small_selected_over:{
-		uri: "[config.ui.skin]common/btn_green_small_selectedover.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_selectedover.png",
 		scale9Grid:{x:7,y:12,width:10,height:15}
 	},
 	button_small_selected_pressed:{
-		uri: "[config.ui.skin]common/btn_green_small_selectedpressed.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_selectedpressed.png",
 		scale9Grid:{x:7,y:12,width:10,height:15}
 	},
 
@@ -65,22 +65,22 @@
 		scale9Grid:{}
 	},
 	button_grey_selected:{
-		uri: "[config.ui.skin]common/btn_green_small_normal.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_normal.png",
 		scale9Grid:{}
 	},
 	button_grey_selected_over:{
-		uri: "[config.ui.skin]common/btn_green_small_over.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_over.png",
 		scale9Grid:{}
 	},
 	button_grey_selected_pressed:{
-		uri: "[config.ui.skin]common/btn_green_small_pressed.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_pressed.png",
 		scale9Grid:{}
 	},
 
 
 	// Red button
 	button_small_red_normal:{
-		uri: "[config.ui.skin]common/btn_green_small_normal.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_normal.png",
 		scale9Grid:{},
 		colorTransform:{
 			redMultiplier: 0.5, greenMultiplier: 0.5, blueMultiplier: 0.5,
@@ -88,7 +88,7 @@
 		}
 	},
 	button_small_red_over:{
-		uri: "[config.ui.skin]common/btn_green_small_over.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_over.png",
 		scale9Grid:{},
 		colorTransform:{
 			redMultiplier: 0.5, greenMultiplier: 0.5, blueMultiplier: 0.5,
@@ -96,7 +96,7 @@
 		}
 	},
 	button_small_red_pressed:{
-		uri: "[config.ui.skin]common/btn_green_small_pressed.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_pressed.png",
 		scale9Grid:{},
 		colorTransform:{
 			redMultiplier: 0.5, greenMultiplier: 0.5, blueMultiplier: 0.5,
@@ -206,37 +206,37 @@
 
 	// Green radio button
 	button_radio_normal:{
-		uri: "[config.ui.skin]common/btn_green_small_over.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_over.png",
 		scale9Grid:{},
 		alpha:0
 	},
 	button_radio_over:{
-		uri: "[config.ui.skin]common/btn_green_small_over.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_over.png",
 		scale9Grid:{},
 		alpha:1
 	},
 	button_radio_pressed:{
-		uri: "[config.ui.skin]common/btn_green_small_pressed.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_pressed.png",
 		scale9Grid:{},
 		alpha:1
 	},
 	button_radio_disabled:{
-		uri: "[config.ui.skin]common/btn_green_small_disabled.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_disabled.png",
 		scale9Grid:{},
 		alpha:1
 	},
 	button_radio_selected:{
-		uri: "[config.ui.skin]common/btn_green_small_selected.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_selected.png",
 		scale9Grid:{},
 		alpha:1
 	},
 	button_radio_selected_over:{
-		uri: "[config.ui.skin]common/btn_green_small_selectedover.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_selectedover.png",
 		scale9Grid:{},
 		alpha:1
 	},
 	button_radio_selected_pressed:{
-		uri: "[config.ui.skin]common/btn_green_small_selectedpressed.jpg",
+		uri: "[config.ui.skin]common/btn_green_small_selectedpressed.png",
 		scale9Grid:{},
 		alpha:1
 	},
