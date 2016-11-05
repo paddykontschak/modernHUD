@@ -93,6 +93,6 @@
 	<entry key="map.search.grid.over">0x151513</entry>
 	<entry key="map.search.grid.over.alpha">0.6</entry>
 	
-	<entry key="gamemenu.background">0x000000</entry>
+	<entry key="gamemenu.background">0x00000000</entry>
 	<entry key="gamemenu.background.alpha">0.8</entry>
 </LangFile>
